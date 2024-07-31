@@ -1,1 +1,2 @@
 conteudo inicial para conflito
+conteudo diferente para conflito.txt
